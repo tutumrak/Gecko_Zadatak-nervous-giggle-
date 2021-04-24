@@ -1,0 +1,22 @@
+
+Linija koda : objasnjenje
+8 - 13 : Pitam korisnika za njegov api kljuc, potom ga formatiram cime dobijam base_url
+15 - 17 : Pitam korisnika za filmove od interesa, koje potom pothranjujem u niz titles
+19 - 21 : prolazim kroz niz filmova koje je korisnik uneo i za svaki pojedinacno formiram finalni url koji potom nadovezujem u niz urls
+23 : ispisujem niz urls
+25 - 29 : Iteriram kroz niz urls i za svaki od njih saljem GET request, potom odgovor pretvaram u .json() i nadovezujem ga u niz data.
+32 - 33 : kreiram fajl po imenu output.txt i u njega upisujem trazene podatke
+// DISCLAIMER:
+Svestan sam da nisam ispunio uslove koje ste zadali, ali bih u svakom slucaju rado prihvatio kritiku i diskutovao o kodu.
+Zahvalan sam na prilici i nastavicu da radim na ovom zadatku dok ga ne zavrsim.
+ ps. The grand budapest hotel je odlican film.
+
+
+
+
+
+
+
+
+
+
