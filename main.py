@@ -1,7 +1,7 @@
 import requests
 import json
 #za dodatan opis koda, pogledati objasnjenje.txt.
-
+#planiram da koristim mongodb jer je zgodno za cuvanje json objekata, dalje razvijanje programa radicu na drugoj grani, nazvacu je altdev
 
 urls = []  #inicijalizujem listu gde cu cuvati url-ove
 data = {}  #inicijalizujem recnik gde cu privremeno cuvati podatke o filmovima
